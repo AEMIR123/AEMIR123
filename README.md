@@ -2,7 +2,7 @@
 
 My name is Stanisław Matyszkiel and I am currently studying on MUT(Military Uniwersity of Technology).
 
--I'm currently learning java
+-💻I'm currently learning java
 <!--
 **AEMIR123/AEMIR123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
