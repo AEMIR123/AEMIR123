@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Stanisław Matyszkiel and I am currently studing on MUT(Military Uniwersity of Technology).
+My name is Stanisław Matyszkiel and I am currently studying on MUT(Military Uniwersity of Technology).
 
 -I'm currently learning java
 <!--
